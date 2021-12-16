@@ -1,4 +1,4 @@
-### GPA-Visualization App
+# GPA-Visualization App
 
 ## Author
 
