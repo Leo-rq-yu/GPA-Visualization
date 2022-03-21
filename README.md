@@ -7,10 +7,9 @@
 
 ## Purpose
 
-This is an useful tool to look for mean GPA value of every course from 2010 to 2021.
-Students could look for mean GPA of every course in a specific major that in a specific year. The plot can show the trends of mean GPA value every year by dragging the slider.
-They could also search for a specific course they are interested in, and see the trends of GPA change by dragging the slider of year.
-They could also look up detailed information like the instructor in the table.
+This is a useful tool to look for the mean GPA value of every course from 2010 to 2021. Students could look for the mean GPA of every course in a specific major in a specific year. The plot can show the trends of mean GPA value every year by dragging the slider. 
+They could also search for a specific course they are interested in and see the trends of GPA change by dragging the slider of year. 
+They could also lookup detailed information like the instructor in the table.
 
 ## Data
 
